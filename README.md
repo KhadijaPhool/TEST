@@ -9,7 +9,11 @@ A manual **_File Naming.md_** will can contain tips like:
 
 # Criteria for manuals
 The content in each manual should confirm to the following points: 
-* Precise
+* Instructions should be concised i.e., use of simple, short, and meaningful sentences
+* Use of correct grammar
+* Use of examples for explanation
+* Cover all possible cases 
+* Removal of redundant information 
 * 
 
 # Intended Users
