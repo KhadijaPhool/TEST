@@ -1,5 +1,5 @@
 # Description
-This project serves as the collection of manuals that containt standard guidelines on _how to **create** and **organize** files/documents of various types._
+This repo serves as the collection of manuals that containt standard guidelines on _how to **create** and **organize** files/documents of various types._
 
 **Example:**
 
