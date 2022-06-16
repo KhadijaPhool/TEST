@@ -15,6 +15,7 @@ The content in each manual will confirm to the following points:
 * Use of examples for explanation
 * Cover all possible cases 
 * Removal of redundant information / instructions
+* Use of best practices for markdown language 
 
 
 ## Goals 
@@ -24,5 +25,9 @@ The content in each manual will confirm to the following points:
 
 
 # Intended Users
+All the writers and authors who are creating: 
+* Articles
+* Reports
+* Research papers
 
 [Title Case Converter]:https://titlecaseconverter.com/
