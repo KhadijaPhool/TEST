@@ -10,12 +10,14 @@ A manual **_File Naming.md_** will can contain tips like:
 ## Criteria for manuals
 The content in each manual will confirm to the following points: 
 * Conciseness i.e., use of simple, short, and meaningful sentences
-* Use of correct grammar
-* Use of sections and sub-sections for intuitive structure 
+* Clarity i.e., no vague or ambiguous statements 
+* Completeness i.e., cover all possible cases 
+* Use of correct English grammar and punctuation 
 * Use of examples for explanation
-* Cover all possible cases 
 * Removal of redundant information / instructions
 * Use of best practices for markdown language 
+* Use of sections and sub-sections for intuitive structure
+* Use of formatting options (as required)
 
 
 ## Goals 
