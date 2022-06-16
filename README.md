@@ -9,14 +9,18 @@ A manual **_File Naming.md_** will can contain tips like:
 
 ## Criteria for manuals
 The content in each manual will confirm to the following points: 
-* Instructions should be concised i.e., use of simple, short, and meaningful sentences
+* Conciseness i.e., use of simple, short, and meaningful sentences
 * Use of correct grammar
+* Well organized structure 
 * Use of examples for explanation
 * Cover all possible cases 
-* Removal of redundant information 
+* Removal of redundant information / instructions
 
 
-## Goals
+## Goals 
+* To achieve consistency in naming the files of each category 
+* To establish a standard directory structure for organizing the files 
+
 
 # Intended Users
 
