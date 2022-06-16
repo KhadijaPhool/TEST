@@ -7,6 +7,11 @@ A manual **_File Naming.md_** will can contain tips like:
 * Convert title to correct title case using [Title Case Converter][another link].
 * Remove extra spaces form the title. 
 
+# Criteria for manuals
+The content in each manual should confirm to the following points: 
+* Precise
+* 
+
 # Intended Users
 
 [Title Case Converter]:https://titlecaseconverter.com/
