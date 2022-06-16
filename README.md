@@ -10,7 +10,3 @@ A manual **_File Naming.md_** will can contain tips like:
 # Intended Users
 
 [Title Case Converter]:https://titlecaseconverter.com/
-
-```
-git commit
-```
