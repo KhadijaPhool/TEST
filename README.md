@@ -12,6 +12,5 @@ A manual **_File Naming.md_** will can contain tips like:
 [Title Case Converter]:https://titlecaseconverter.com/
 
 ```
-$ git status
-$ git commit
+$ git commit README
 ```
