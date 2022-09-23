@@ -18,7 +18,9 @@ In case of a technical error (for example a timeout), a metaToken will not be ge
 
 **Note:** Based on this API testing, it was estimated that the use of meta tokens recovered a 5 - 15% increase in failed tokenized payments. 
 # Document Structure  
-## Authentication
+## Overview  
+_(A brief overview of the API will be provided)_
+## Authentication Method
 _(this section explains how the connection is established with Adyen via API)_  
 Each API request made to Adyen must be authenticated. API Key authentication method is used in this case. You must authenticate your request by sending an API key in an x-API-key HTTP request header.  
 > -H 'x-api-key: ' \
